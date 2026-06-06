@@ -1,12 +1,12 @@
-# Privacy Policy for Nightworld
+# Privacy Policy for Monnstack
 
 **Last updated: May 26, 2026**
 
-This Privacy Policy describes how Midrib Cryptic ("we", "us", or "our") collects, uses, and shares information when you use the Nightworld mobile game (the "App") available on Google Play.
+This Privacy Policy describes how Midrib Cryptic ("we", "us", or "our") collects, uses, and shares information when you use the Monnstack mobile game (the "App") available on Google Play.
 
 ## 1. Information We Collect
 
-**We do not collect any personal information directly.** Nightworld does not require account creation, login, or registration of any kind. All gameplay data — your placed tiles, score, soft-currency balance, and cosmetic preferences — is stored locally on your device.
+**We do not collect any personal information directly.** Monnstack does not require account creation, login, or registration of any kind. All gameplay data — your placed tiles, score, soft-currency balance, and cosmetic preferences — is stored locally on your device.
 
 However, the following third-party services integrated into the App may collect information when you use it:
 
@@ -41,7 +41,7 @@ The App uses Google's User Messaging Platform (UMP) SDK to obtain your consent f
 
 ## 5. Children's Privacy
 
-Nightworld is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. The App is rated for ages 13 and above on Google Play. If you believe a child under 13 has provided information through the App, please contact us at the email below and we will work to remove such information.
+Monnstack is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. The App is rated for ages 13 and above on Google Play. If you believe a child under 13 has provided information through the App, please contact us at the email below and we will work to remove such information.
 
 ## 6. Your Rights
 
@@ -69,9 +69,9 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 For questions or requests regarding this Privacy Policy, please contact:
 
-**Email:** nightworld.dev@gmail.com
+**Email:** moonstacks.dev@gmail.com
 **Developer:** Midrib Cryptic
 
 ---
 
-*This Privacy Policy applies only to the Nightworld mobile game and not to any other product, service, or website operated by Midrib Cryptic.*
+*This Privacy Policy applies only to the Monnstack mobile game and not to any other product, service, or website operated by Midrib Cryptic.*
