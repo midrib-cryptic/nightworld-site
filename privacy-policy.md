@@ -1,12 +1,12 @@
-# Privacy Policy for Monnstack
+# Privacy Policy for Moonstack
 
 **Last updated: May 26, 2026**
 
-This Privacy Policy describes how Midrib Cryptic ("we", "us", or "our") collects, uses, and shares information when you use the Monnstack mobile game (the "App") available on Google Play.
+This Privacy Policy describes how Midrib Cryptic ("we", "us", or "our") collects, uses, and shares information when you use the Moonstack mobile game (the "App") available on Google Play.
 
 ## 1. Information We Collect
 
-**We do not collect any personal information directly.** Monnstack does not require account creation, login, or registration of any kind. All gameplay data — your placed tiles, score, soft-currency balance, and cosmetic preferences — is stored locally on your device.
+**We do not collect any personal information directly.** Moonstack does not require account creation, login, or registration of any kind. All gameplay data — your placed tiles, score, soft-currency balance, and cosmetic preferences — is stored locally on your device.
 
 However, the following third-party services integrated into the App may collect information when you use it:
 
@@ -41,7 +41,7 @@ The App uses Google's User Messaging Platform (UMP) SDK to obtain your consent f
 
 ## 5. Children's Privacy
 
-Monnstack is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. The App is rated for ages 13 and above on Google Play. If you believe a child under 13 has provided information through the App, please contact us at the email below and we will work to remove such information.
+Moonstack is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. The App is rated for ages 13 and above on Google Play. If you believe a child under 13 has provided information through the App, please contact us at the email below and we will work to remove such information.
 
 ## 6. Your Rights
 
@@ -74,4 +74,4 @@ For questions or requests regarding this Privacy Policy, please contact:
 
 ---
 
-*This Privacy Policy applies only to the Monnstack mobile game and not to any other product, service, or website operated by Midrib Cryptic.*
+*This Privacy Policy applies only to the Moonstack mobile game and not to any other product, service, or website operated by Midrib Cryptic.*
